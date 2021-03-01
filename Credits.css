@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+body{margin: 0px;}
+nav{width : 100%;height: 100px;}
+ul {margin-top: 0px;}
+ul li {list-style : none;position: relative;left: 170px;top: 30px;display:inline-block;line-height: 80px;}
+ul li a {font-family    : Oswald;padding        : 0 20px;font-size      : 35px;text-decoration: none;font-weight    : 500;color          : rgb(255, 255, 255);}
+ul li a:hover{color:rgb(0, 0, 0);}
+h1{font-family: Oswald;font-size  : 80px;position   : relative;text-align : center;top        : 100px;color      : rgb(0, 0, 0);}
+.div1{width           : 236px;height          : 20px;background-color: rgb(255, 255, 255);position        : relative;top             : 40px;left            : 562px;}
+.download{background: linear-gradient(to right , rgb(255, 123, 0) , red);height: 657px;}
+h2{font-family: Oswald;text-align: center;font-size: 55px;line-height: 5px;}
+p{font-family: Oswald;text-align: center;font-size: 18px;}
+.p2{line-height: 2px;}
+li{font-family: Oswald;text-align: center;font-size: 18px;line-height: 40px;}
